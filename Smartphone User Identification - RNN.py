@@ -1,4 +1,3 @@
-# Bogdan-Marian Raia, Gr. 411 (DS)
 # Smartphone User Identification
 # RNN
 
